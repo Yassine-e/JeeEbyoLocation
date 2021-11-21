@@ -1,0 +1,76 @@
+.formataa {
+  margin-top: 10px;
+  width: 100px !important;
+  border: 1px solid rgb(226, 226, 226);
+  margin-bottom: 10px;
+}
+.hopla {
+  margin-bottom: 10px;
+}
+.top-log {
+  width: 100%;
+  height: 15%;
+  display: flex;
+}
+.client {
+  width: 49.5%;
+}
+.seperate {
+  width: 1%;
+  background-color: #212529;
+}
+.pods {
+  cursor: pointer;
+  text-align: center;
+  color: ivory;
+  padding: 20px 0;
+  font-size: 18px;
+  font-family: "Raleway" !important;
+  font-weight: 700 !important;
+  border-bottom: #212529 solid 2px;
+  transition: 0.6s;
+}
+
+.prop {
+  width: 49.5%;
+}
+.rest-log {
+  height: 71%;
+  padding-left: 10%;
+  padding-top: 18px;
+}
+
+.titleee {
+  color: #679436 !important;
+  margin-left: 55px;
+}
+.form-control {
+  margin-top: 10px !important;
+  width: 268px !important;
+}
+.bottom-log {
+  height: 15%;
+  width: 100%;
+}
+label {
+  color: #212529 ;
+}
+
+.bottom-log {
+  text-align: center;
+}
+
+.btttn:hover {
+  background-color: #679436bf !important;
+}
+.hopaa {
+  display: block !important;
+}
+.tobuttonn {
+  padding-top: 10px;
+  width: 100%;
+  text-align: center;
+}
+.mybaytn {
+  justify-content: center;
+}

@@ -1,0 +1,10 @@
+.me-5 span {
+  font-weight: bold;
+}
+.text-reset:hover {
+  color: #05668d !important;
+}
+
+.global-footer span {
+  color: #679436;
+}

@@ -1,0 +1,89 @@
+.forannonce {
+  height: max-content;
+}
+.forpic {
+  width: 389px;
+  height: 292px;
+}
+.wholeAnnonce {
+  width: 389px;
+  height: 620px;
+  margin: 20px;
+  border: 1px dotted #e0e1e5 !important;
+  /*float: left;*/
+}
+.fordescription {
+  padding: 20px;
+  width: 389px;
+  height: 300px;
+}
+.fordescription h2 {
+  text-align: left;
+  font-size: 1.375rem;
+  margin-bottom: 1em;
+  font-family: "Lato", sans-serif;
+  margin-bottom: 12px;
+  font-weight: 600;
+  color: rgb(53, 53, 53);
+}
+.fordescription p {
+  text-align: left;
+  width: 325px;
+  color: #666;
+}
+.bardescription {
+  display: flex;
+  width: 330px;
+  height: 50px;
+  border-bottom: 1px solid #e0e1e5;
+  border-top: 1px solid #e0e1e5;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  color: #666;
+}
+.spacce {
+  width: 110px;
+  height: 100%;
+  text-align: left;
+  margin-left: 10px;
+}
+.mypricee {
+  margin-top: 20px;
+  color: #666;
+}
+.mypricee span {
+  color: #05668d;
+}
+.myoptionss {
+  display: flex;
+  margin-bottom: 20px;
+}
+.btttn {
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+  vertical-align: middle;
+  touch-action: manipulation;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid #679436;
+  text-transform: uppercase;
+  padding: 0.92929em 2em;
+  font-size: 14px;
+  font-size: 0.875rem;
+  line-height: 1.57143;
+  border-radius: 0;
+  background-color: #679436;
+}
+.forviewdit {
+  margin-left: 60px;
+  text-transform: none;
+  border: 1px solid transparent !important;
+  border-bottom: 1px dotted currentColor !important;
+  font-weight: 400;
+  padding: 0.85714em 0 0;
+  vertical-align: middle;
+  text-align: center;
+  cursor: pointer;
+  color: #666;
+}

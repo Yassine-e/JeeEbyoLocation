@@ -1,0 +1,6313 @@
+[{
+  "_id": {
+    "$oid": "60c5e79a1d942a03e0ed9f1e"
+  },
+  "Date": {
+    "$date": "2021-06-12T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 455,
+    "TotalConfirmed": 523620,
+    "NewDeaths": 5,
+    "TotalDeaths": 9207,
+    "NewRecovered": 335,
+    "TotalRecovered": 510958,
+    "TotalActif": 3455,
+    "TotalVaccinated1": 9363220,
+    "TotalVaccinated2": 7094691
+  },
+  "Regions": [
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 26,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 202,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 51,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 91,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 37,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 3,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 26,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/12/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 163,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 17,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 17,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 29,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 16,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 31,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 22,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 27,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 41,
+      "NameFR": "ador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/12/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 1
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79a1d942a03e0ed9f1f"
+  },
+  "Date": {
+    "$date": "2021-06-11T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 400,
+    "TotalConfirmed": 523165,
+    "NewDeaths": 10,
+    "TotalDeaths": 9202,
+    "NewRecovered": 324,
+    "TotalRecovered": 510623,
+    "TotalActif": 3340,
+    "TotalVaccinated1": 9362000,
+    "TotalVaccinated2": 7047704
+  },
+  "Regions": [
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 44,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 10,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 183,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 16,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 64,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 46,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/11/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 147,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 24,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 45,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 43,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 35,
+      "NewDeaths": 3
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 3,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 1,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 18,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 6,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 0,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/11/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79a1d942a03e0ed9f20"
+  },
+  "Date": {
+    "$date": "2021-06-10T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 376,
+    "TotalConfirmed": 522765,
+    "NewDeaths": 2,
+    "TotalDeaths": 9192,
+    "NewRecovered": 341,
+    "TotalRecovered": 510299,
+    "TotalActif": 3274,
+    "TotalVaccinated1": 9359017,
+    "TotalVaccinated2": 6878656
+  },
+  "Regions": [
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 19,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 200,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 26,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 65,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 26,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 10,
+      "NewDeaths": 1
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/10/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 146,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 19,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 19,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 7,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 22,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/10/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79a1d942a03e0ed9f21"
+  },
+  "Date": {
+    "$date": "2021-06-09T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 386,
+    "TotalConfirmed": 522389,
+    "NewDeaths": 3,
+    "TotalDeaths": 9190,
+    "NewRecovered": 298,
+    "TotalRecovered": 509958,
+    "TotalActif": 3241,
+    "TotalVaccinated1": 9354932,
+    "TotalVaccinated2": 6687738
+  },
+  "Regions": [
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 26,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 22,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 178,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 31,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 50,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 28,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 16,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/9/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 147,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 20,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 5,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 22,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 19,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 23,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/9/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79a1d942a03e0ed9f22"
+  },
+  "Date": {
+    "$date": "2021-06-08T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 473,
+    "TotalConfirmed": 522003,
+    "NewDeaths": 6,
+    "TotalDeaths": 9187,
+    "NewRecovered": 383,
+    "TotalRecovered": 509660,
+    "TotalActif": 3156,
+    "TotalVaccinated1": 9341497,
+    "TotalVaccinated2": 6457177
+  },
+  "Regions": [
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 27,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 273,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 7,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 69,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 34,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 17,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 30,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/8/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 220,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 17,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 7,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 20,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 23,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 27,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 16,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 2,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 3,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/8/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f23"
+  },
+  "Date": {
+    "$date": "2021-06-07T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 104,
+    "TotalConfirmed": 521530,
+    "NewDeaths": 3,
+    "TotalDeaths": 9181,
+    "NewRecovered": 194,
+    "TotalRecovered": 509277,
+    "TotalActif": 3072,
+    "TotalVaccinated1": 9216223,
+    "TotalVaccinated2": 6163970
+  },
+  "Regions": [
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 24,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 15,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 28,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 11,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 9,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/7/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 19,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 7,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 10,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 7,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/7/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f24"
+  },
+  "Date": {
+    "$date": "2021-06-06T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 231,
+    "TotalConfirmed": 521426,
+    "NewDeaths": 5,
+    "TotalDeaths": 9178,
+    "NewRecovered": 233,
+    "TotalRecovered": 509083,
+    "TotalActif": 3165,
+    "TotalVaccinated1": 9108843,
+    "TotalVaccinated2": 5898644
+  },
+  "Regions": [
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 16,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 6,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 103,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 26,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 39,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 3,
+      "NewDeaths": 1
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/6/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 90,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 1,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 34,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 0,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 4,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 1,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/6/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f25"
+  },
+  "Date": {
+    "$date": "2021-06-05T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 426,
+    "TotalConfirmed": 521195,
+    "NewDeaths": 4,
+    "TotalDeaths": 9173,
+    "NewRecovered": 280,
+    "TotalRecovered": 508850,
+    "TotalActif": 3172,
+    "TotalVaccinated1": 9108843,
+    "TotalVaccinated2": 5898644
+  },
+  "Regions": [
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 38,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 205,
+      "NewDeaths": 4
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 22,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 66,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 33,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 32,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/5/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 168,
+      "NewDeaths": 4
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 16,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 15,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 16,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 28,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 20,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 20,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/5/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f26"
+  },
+  "Date": {
+    "$date": "2021-06-04T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 346,
+    "TotalConfirmed": 520769,
+    "NewDeaths": 4,
+    "TotalDeaths": 9169,
+    "NewRecovered": 360,
+    "TotalRecovered": 508570,
+    "TotalActif": 3030,
+    "TotalVaccinated1": 9072565,
+    "TotalVaccinated2": 5840597
+  },
+  "Regions": [
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 27,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 176,
+      "NewDeaths": 3
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 33,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 28,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 32,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/4/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 143,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 15,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 2,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 27,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 16,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 16,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/4/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f27"
+  },
+  "Date": {
+    "$date": "2021-06-03T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 395,
+    "TotalConfirmed": 520423,
+    "NewDeaths": 5,
+    "TotalDeaths": 9165,
+    "NewRecovered": 372,
+    "TotalRecovered": 508210,
+    "TotalActif": 3048,
+    "TotalVaccinated1": 8961585,
+    "TotalVaccinated2": 5781207
+  },
+  "Regions": [
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 21,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 210,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 40,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 33,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 51,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/3/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 177,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 15,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 44,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 0,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 4,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 2,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 30,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/3/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f28"
+  },
+  "Date": {
+    "$date": "2021-06-02T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 418,
+    "TotalConfirmed": 520028,
+    "NewDeaths": 6,
+    "TotalDeaths": 9160,
+    "NewRecovered": 310,
+    "TotalRecovered": 507838,
+    "TotalActif": 3030,
+    "TotalVaccinated1": 8869486,
+    "TotalVaccinated2": 5744957
+  },
+  "Regions": [
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 24,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 205,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 36,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 42,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 52,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 9,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/2/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 154,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 19,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 41,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 10,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 17,
+      "NewDeaths": 2
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/2/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60c5e79b1d942a03e0ed9f29"
+  },
+  "Date": {
+    "$date": "2021-06-01T23:00:00Z"
+  },
+  "Maroc": {
+    "NewConfirmed": 394,
+    "TotalConfirmed": 519610,
+    "NewDeaths": 7,
+    "TotalDeaths": 9154,
+    "NewRecovered": 403,
+    "TotalRecovered": 507528,
+    "TotalActif": 2928,
+    "TotalVaccinated1": 8772982,
+    "TotalVaccinated2": 5640992
+  },
+  "Regions": [
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 1,
+      "NameFR": "Tanger-Tétouan-Al Hoceima",
+      "NameAR": "طنجة - تطوان - الحسيمة",
+      "NewConfirmed": 20,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 2,
+      "NameFR": "Fés-Meknés",
+      "NameAR": "فاس - مكناس",
+      "NewConfirmed": 4,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 3,
+      "NameFR": "Casablanca-Settat",
+      "NameAR": "الدار البيضاء - سطات",
+      "NewConfirmed": 254,
+      "NewDeaths": 5
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 4,
+      "NameFR": "Souss-Massa",
+      "NameAR": "سوس - ماسة",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 5,
+      "NameFR": "Rabat-Salé-Kénitra",
+      "NameAR": "الرباط - سلا - القنيطرة",
+      "NewConfirmed": 43,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 6,
+      "NameFR": "Marrakech-Safi",
+      "NameAR": "مراكش - آسفي",
+      "NewConfirmed": 21,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 7,
+      "NameFR": "Oriental",
+      "NameAR": "الشرق",
+      "NewConfirmed": 12,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 8,
+      "NameFR": "Beni Mellal-Khénifra",
+      "NameAR": "بني ملال - خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 9,
+      "NameFR": "Laayoune-Sakia El Hamra",
+      "NameAR": "العيون - الساقية الحمراء",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 10,
+      "NameFR": "Guelmim-Oued Noun",
+      "NameAR": "كلميم - واد نون",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 11,
+      "NameFR": "Eddakhla-Oued Eddahab",
+      "NameAR": "الداخلة - وادي الذهب",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdRegion": 12,
+      "NameFR": "Drâa-Tafilalet",
+      "NameAR": "درعة - تافيلالت",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    }
+  ],
+  "Cities": [
+    {
+      "Date": "6/1/2021",
+      "IdVille": 1,
+      "NameFR": "Casablanca",
+      "NameAR": "البيضاء الدار",
+      "NewConfirmed": 193,
+      "NewDeaths": 5
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 2,
+      "NameFR": "Nouaceur",
+      "NameAR": "النوارص",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 3,
+      "NameFR": "Mohammadia",
+      "NameAR": "المحمدية",
+      "NewConfirmed": 8,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 4,
+      "NameFR": "El Jadida",
+      "NameAR": "الجديدة",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 5,
+      "NameFR": "Berrechid",
+      "NameAR": "برشيد",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 6,
+      "NameFR": "Médiouna",
+      "NameAR": "مديونة",
+      "NewConfirmed": 11,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 7,
+      "NameFR": "Benslimane",
+      "NameAR": "بن سليمان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 8,
+      "NameFR": "Settat",
+      "NameAR": "سطات",
+      "NewConfirmed": 18,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 9,
+      "NameFR": "Rabat",
+      "NameAR": "الرباط",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 10,
+      "NameFR": "Salé",
+      "NameAR": "سال",
+      "NewConfirmed": 14,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 11,
+      "NameFR": "Skhirate- Témara",
+      "NameAR": "تمارة-الصخريات",
+      "NewConfirmed": 7,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 12,
+      "NameFR": "Kénitra",
+      "NameAR": "القنيطرة",
+      "NewConfirmed": 13,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 13,
+      "NameFR": "Sidi Kacem",
+      "NameAR": "قاسم سيدي",
+      "NewConfirmed": 4,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 14,
+      "NameFR": "Sidi Slimane",
+      "NameAR": "سليمان سي",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 15,
+      "NameFR": "Marrakech",
+      "NameAR": "مراكش",
+      "NewConfirmed": 20,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 16,
+      "NameFR": "Safi",
+      "NameAR": "آسف",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 17,
+      "NameFR": "Essaouira",
+      "NameAR": "الصويرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 18,
+      "NameFR": "El Kelâa des Sraghna",
+      "NameAR": "الرساغنة قلعة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 19,
+      "NameFR": "Al Haouz",
+      "NameAR": "الحوز",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 20,
+      "NameFR": "Tanger-Assilah",
+      "NameAR": "أصيلة-طنجة",
+      "NewConfirmed": 11,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 21,
+      "NameFR": "M'Diq-Fnideq",
+      "NameAR": "الفنيدق المضيق",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 22,
+      "NameFR": "Tétouan",
+      "NameAR": "تطوان",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 23,
+      "NameFR": "Ouezzane",
+      "NameAR": "وزان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 24,
+      "NameFR": "Chefchaouen",
+      "NameAR": "شفشاون",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 25,
+      "NameFR": "Oued Ed-Dahab",
+      "NameAR": "الذهب وادي",
+      "NewConfirmed": 10,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 26,
+      "NameFR": "Inezgane- Ait Melloul",
+      "NameAR": "ملول آيت إنزكان",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 27,
+      "NameFR": "Agadir-Ida -Ou-Tanane",
+      "NameAR": "وتنان إدا أكادير",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 28,
+      "NameFR": "Taroudannt",
+      "NameAR": "تارودانت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 29,
+      "NameFR": "Tiznit",
+      "NameAR": "تزنيت",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 30,
+      "NameFR": "Chtouka- Ait Baha",
+      "NameAR": "باها آيت اشتوكة",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 31,
+      "NameFR": "Tata",
+      "NameAR": "طاطا",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 32,
+      "NameFR": "Fès",
+      "NameAR": "فاس",
+      "NewConfirmed": 2,
+      "NewDeaths": 1
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 33,
+      "NameFR": "Meknès",
+      "NameAR": "مكناس",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 34,
+      "NameFR": "Taounate",
+      "NameAR": "تاونات",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 35,
+      "NameFR": "Taza",
+      "NameAR": "تازة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 36,
+      "NameFR": "Sefrou",
+      "NameAR": "صفرو",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 37,
+      "NameFR": "El Hajeb",
+      "NameAR": "الحاجب",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 38,
+      "NameFR": "Laâyoune",
+      "NameAR": "العيون",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 39,
+      "NameFR": "Tarfaya",
+      "NameAR": "طرفاية",
+      "NewConfirmed": 6,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 40,
+      "NameFR": "Driouch",
+      "NameAR": "الدريوش",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 41,
+      "NameFR": "Nador",
+      "NameAR": "الناظور",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 42,
+      "NameFR": "Berkane",
+      "NameAR": "بركان",
+      "NewConfirmed": 5,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 43,
+      "NameFR": "Guercif",
+      "NameAR": "جرسيف",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 44,
+      "NameFR": "Khénifra",
+      "NameAR": "خنيفرة",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 45,
+      "NameFR": "Salah Ben Fquih",
+      "NameAR": "الفقيه بن صالح",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 46,
+      "NameFR": "Azilal",
+      "NameAR": "أزيالل",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 47,
+      "NameFR": "Tinghir",
+      "NameAR": "تنغري",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 48,
+      "NameFR": "Errachidia",
+      "NameAR": "الرشيدية",
+      "NewConfirmed": 3,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 49,
+      "NameFR": "Ouarzazate",
+      "NameAR": "ورززات",
+      "NewConfirmed": 1,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 50,
+      "NameFR": "Guelmim",
+      "NameAR": "كلميم",
+      "NewConfirmed": 2,
+      "NewDeaths": 0
+    },
+    {
+      "Date": "6/1/2021",
+      "IdVille": 51,
+      "NameFR": "Tan Tan",
+      "NameAR": "طان طان",
+      "NewConfirmed": 0,
+      "NewDeaths": 0
+    }
+  ]
+}]

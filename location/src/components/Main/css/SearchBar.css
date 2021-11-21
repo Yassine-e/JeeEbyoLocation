@@ -1,0 +1,111 @@
+.toolbar {
+  text-align: center;
+  padding-top: 60px;
+}
+.toolTitle {
+  text-align: center;
+  text-rendering: optimizeLegibility;
+  font-family: inherit;
+  line-height: 1.4;
+  font-weight: 700;
+  font-size: 2.125rem;
+  margin-bottom: 40px;
+  color: #333;
+}
+.toolminitil {
+  color: #333;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  width: 780px;
+  height: 44px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 14px;
+}
+.forfilter {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+}
+.form-group {
+  display: table-cell;
+  padding: 0 15px;
+  vertical-align: middle;
+  margin-bottom: 15px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.45em;
+  color: #4b4b4b;
+}
+.form-group label {
+  text-transform: uppercase;
+  font-size: 14px;
+  display: block;
+  line-height: normal;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.form-group input {
+  min-width: 240px;
+  background-color: #fff;
+  display: block;
+  padding: 12px;
+  color: #4b4b4b;
+  border: 1px solid #e7e7e7;
+  width: 130px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 500;
+}
+.form-group select {
+  min-width: 240px;
+  background-color: #fff;
+  display: block;
+  padding: 12px;
+  color: #4b4b4b;
+  border: 1px solid #e7e7e7;
+  width: 130px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 500;
+}
+.form-group input::placeholder {
+  color: #bdb3b3;
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+}
+.form-group select {
+  color: #bdb3b3;
+  font-size: 13px;
+  font-family: "Poppins", sans-serif;
+}
+.tirett {
+  width: 10px;
+  height: 100px;
+  background-color: brown;
+}
+.ourprice {
+  min-width: 60px !important;
+}
+.button {
+  margin-top: 45px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  padding: 16px 65px;
+  border-radius: 26px;
+  text-transform: capitalize;
+  margin: auto;
+  display: table;
+  position: relative;
+  cursor: pointer;
+  line-height: normal;
+}
+.nevy-button {
+  background-color: #05668d;
+}

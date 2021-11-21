@@ -1,0 +1,237 @@
+.fulldescript {
+  display: flex;
+  width: 100%;
+  padding-left: 110px;
+  padding-right: 90px;
+}
+* {
+  /* color: #333; */
+  font-family: "Lato", sans-serif;
+}
+.descripleft {
+  width: 750px;
+  height: 100%;
+  margin-right: 50px;
+  margin-bottom: 70px;
+}
+.descripright {
+  text-align: left;
+  width: 314px;
+  padding-left: 30px;
+  padding-right: 30px;
+  height: 100%;
+}
+.detaildescript {
+  color: #333;
+  text-align: left;
+  font-family: "Lato", sans-serif;
+  margin: 0 0 1.45em;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+.linecadr {
+  padding: 20px;
+  padding-left: 40px;
+  display: flex;
+}
+.cadrephotot {
+  width: 150px;
+  height: 150px;
+  background-color: aquamarine;
+  margin-right: 20px;
+}
+.imgannonces h5 {
+  font-size: 1.225rem;
+  float: left;
+  color: #333;
+}
+.aboutDetails {
+  margin-top: 2.92308em;
+  margin-bottom: 1.84615em;
+}
+.details-title {
+  font-size: 1.525rem;
+  text-align: left;
+  clear: both;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+  font-family: inherit;
+  line-height: 1.4;
+  font-weight: 700;
+  color: #333;
+}
+.aboutDetails ul {
+  list-style: none;
+  display: table;
+  margin: 1.5625em 0em 1.25em;
+}
+#firstfol {
+  border-top: 1px solid #e0e1e5;
+  width: 96.5%;
+}
+.aboutDetails ul li {
+  display: table-row;
+  width: 100%;
+  list-style: none;
+  position: relative;
+  right: 32px;
+}
+.aboutDetails .titlee {
+  min-width: 140px;
+  color: #666;
+  display: table-cell;
+  border-bottom: 1px solid #e0e1e5;
+  font-size: 1rem;
+  text-align: left;
+  margin-right: 10px;
+}
+.aboutDetails .answer {
+  text-align: left;
+  min-width: 540px;
+  display: table-cell;
+  border-bottom: 1px solid #e0e1e5;
+  padding: 0.8125em 0.8625em 0.8125em 0;
+  list-style: none;
+  font-weight: 400;
+}
+.aboutDetails h4 {
+  margin-top: 20px;
+  font-weight: 400;
+  min-width: 140px;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 1.4;
+  color: #333;
+  font-family: "Lato", sans-serif;
+  float: left;
+}
+.godown {
+  margin-top: 30px;
+}
+.okee {
+  border-bottom: none !important;
+}
+.addanswer {
+  border-bottom: none !important;
+}
+.descripright h5 {
+  font-weight: 600;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #333;
+  font-family: "Lato", sans-serif;
+}
+.form-group {
+  display: table-cell;
+  padding: 0 15px;
+  vertical-align: middle;
+  margin-bottom: 15px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.45em;
+  color: #4b4b4b;
+}
+.descripright .form-group input::placeholder,
+.descripright textarea::placeholder {
+  color: #bdb3b3;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Lato", sans-serif;
+}
+
+.descripright .form-group input,
+.descripright textarea {
+  min-width: 240px;
+  background-color: #fff;
+  display: block;
+  padding: 12px;
+  color: #4b4b4b;
+  border: 1px solid #e7e7e7;
+  width: 130px;
+  font-size: 12px;
+  font-weight: 500;
+}
+.form-group label {
+  text-transform: uppercase;
+  font-size: 14px;
+  display: block;
+  line-height: normal;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: left;
+}
+.fullPub {
+  text-align: center;
+  margin-left: 50px;
+  cursor: pointer;
+  background-color: #05668d;
+  border-radius: 0px;
+}
+.myconsult {
+  text-align: center;
+  margin-left: 50px;
+  cursor: pointer;
+  border-radius: 0px;
+  background-color: #679436 !important;
+}
+.myconsult:hover {
+  background-color: #6794365d !important;
+}
+.fullPub:hover {
+  background-color: #05668d98;
+}
+.fullcadr {
+  color: #fff;
+}
+.descripright span {
+  font-size: 0.875rem;
+  line-height: 1.4;
+  margin-bottom: 2.14286em;
+  text-transform: uppercase;
+  color: #333;
+  font-weight: 600;
+}
+.myregions {
+  display: flex;
+}
+.cadroa {
+  padding: 3px;
+  border: 1px solid #e0e1e5;
+  padding: 0.10714em 0.64286em;
+  font-size: 13px;
+  margin-right: 7px;
+}
+.descripright .toprice {
+  margin-top: 20px;
+}
+.descripright .tleftt {
+  float: left !important;
+  margin-left: 0px !important;
+}
+.descripleft .profilee {
+  display: flex;
+}
+.descripleft .img {
+  height: 60px;
+  width: 60px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 20px;
+}
+.descripleft .forname {
+  padding-top: 8px;
+}
+.descripleft .name {
+  text-align: left;
+  font-weight: 700;
+}
+.thecomment {
+  margin-top: 20px;
+  text-align: left;
+}
+.descripleft .loggin {
+  text-align: left;
+}

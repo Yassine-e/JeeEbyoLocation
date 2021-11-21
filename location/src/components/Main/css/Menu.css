@@ -1,0 +1,84 @@
+* {
+  text-decoration: none !important;
+}
+.poss {
+  position: absolute !important;
+  width: 100%;
+  z-index: 10;
+  background-color: rgba(25, 25, 26, 0);
+  /*border-bottom: outset 1px rgb(0, 0, 0);*/
+}
+.joinNow{
+  color: rgb(0, 0, 0);
+  margin-left: 2%;
+  cursor: pointer;
+}
+.joinNow:hover{
+  color: #005bb1
+}
+.myMenu {
+  margin-top: 40px;
+  margin-left: 20px;
+  margin-left: 20px;
+}
+#navbarNav {
+  float: right;
+  margin-right: 200px;
+}
+.myMenu button {
+  background-color: transparent !important;
+  border: none;
+}
+ul li {
+  float: left;
+  margin-right: 30px;
+  list-style: none;
+}
+a {
+  color: rgb(0, 0, 0);
+}
+.pil {
+  font-weight: 500;
+  color: rgb(255, 255, 255) !important;
+  transition: color 0.4s ease-out;
+  cursor: pointer;
+}
+.pil:hover {
+  color: #679436 !important;
+}
+.mylog {
+  margin-top: -20px;
+}
+.pil_push {
+  margin-right: 190px;
+}
+.Speciall {
+  margin-left: 45px;
+}
+.moncadr {
+  color: #ffffff !important;
+  border: solid white 2px;
+  border-radius: 35px;
+  width: 160px;
+  height: 50px;
+  text-align: center;
+  vertical-align: middle;
+  position: relative;
+  bottom: 14px;
+  padding-top: 12px;
+  transition: 0.6s;
+}
+.moncadr:hover {
+  background-color: #679436;
+}
+.contentCadr {
+  font-size: 16px;
+}
+.contentCadr:hover {
+  color: #ffffff;
+}
+.tocloose {
+  float: right;
+  background-color: transparent !important;
+  border: none;
+}

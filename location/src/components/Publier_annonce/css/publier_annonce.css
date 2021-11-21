@@ -1,0 +1,118 @@
+.publieer {
+  color: #05668d !important;
+}
+.MuiStepIcon-root.MuiStepIcon-active {
+  color: #b59a3f !important;
+}
+.MuiStepIcon-root.MuiStepIcon-completed {
+  color: #3fb55d !important;
+}
+.phase1 {
+  width: 100%;
+  text-align: left;
+}
+.typebien {
+  margin-left: 45%;
+  margin-bottom: 4%;
+}
+
+.step1 {
+  padding: 10%;
+  padding-top: 3%;
+}
+.myflexa h5 {
+  text-align: left;
+  width: 15%;
+}
+.reactta {
+  width: 100%;
+}
+.myflexa {
+  width: 97%;
+  display: flex;
+}
+.toform {
+  margin-right: 40px;
+  display: inline-block;
+}
+.intotwo {
+  display: flex;
+}
+.tomap {
+  margin-top: 2%;
+}
+.step2 {
+  margin-left: 30%;
+  display: flex;
+}
+.step3 {
+  height: 660px;
+  padding: 5%;
+}
+.forupload {
+  padding-right: 10%;
+  height: 124px;
+  width: 100%;
+  background-color: #fbfbfb;
+  border: solid 1px #d4d4d4;
+  border-radius: 5px;
+  padding: 8px;
+  box-sizing: border-box;
+}
+.photoadd {
+  border-width: 2px;
+  border-radius: 5px;
+  border: dashed 1px #792121;
+  height: 100px;
+  width: 100px;
+  text-align: center;
+  line-height: 1;
+  box-sizing: border-box;
+}
+.input-file-container {
+  position: relative;
+}
+
+.input-file-trigger {
+  display: block;
+  padding: 14px 45px;
+  background: #39d2b4;
+  color: #fff;
+  font-size: 1em;
+  transition: all 0.4s;
+  cursor: pointer;
+}
+.myicon {
+  width: 30px !important;
+  height: 30px !important;
+  position: relative;
+  z-index: 30;
+  cursor: pointer;
+  top: -14px;
+}
+.input-file {
+  position: relative;
+  z-index: 40;
+  width: 225px;
+  padding: 14px 0;
+  opacity: 0;
+  cursor: pointer;
+  bottom: -20px;
+}
+.firstlargeinput {
+  min-width: 820px !important;
+}
+textarea {
+  border: 1px solid #e7e7e7;
+  padding: 12px;
+  color: #4b4b4b;
+  font-size: 13px;
+  border-radius: 5px;
+}
+textarea::placeholder {
+  color: #bdbbbb;
+  font-size: 13px;
+}
+.interval {
+  margin-right: 40px !important;
+}

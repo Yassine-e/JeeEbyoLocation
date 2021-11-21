@@ -1,0 +1,62 @@
+* {
+  text-decoration: none !important;
+}
+
+.color-nav {
+  background-color: #05668d;
+}
+.poss {
+  position: absolute !important;
+  width: 100%;
+  z-index: 10;
+  background-color: rgba(25, 25, 26, 0);
+  /*border-bottom: outset 1px rgb(0, 0, 0);*/
+}
+
+a {
+  color: rgb(0, 0, 0);
+}
+.pila {
+  font-weight: 500;
+  color: rgb(255, 255, 255) !important;
+  transition: color 0.4s ease-out;
+}
+.pila:hover {
+  color: #679436 !important;
+}
+
+.mylog {
+  margin-top: -20px;
+}
+
+.moncadra {
+  color: #ffffff;
+  border: solid white 2px;
+  border-radius: 35px;
+  width: 160px;
+  height: 50px;
+  padding-top: 7%;
+  text-align: center;
+  bottom: 14px;
+  transition: 0.6s;
+}
+.moncadra:hover {
+  background-color: #679436;
+  color: #ffffff;
+}
+.contentCadr {
+  font-size: 16px;
+  color: #ffffff;
+}
+.contentCadr:hover {
+  color: #ffffff;
+}
+.firstdevis {
+  width: 30%;
+}
+.seconddevis {
+  width: 50%;
+}
+.pilaouch {
+  padding-top: 20px;
+}

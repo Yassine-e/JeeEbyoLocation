@@ -1,0 +1,21 @@
+.checkthis {
+  background-color: aqua;
+  height: 408px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-image: url("../img/imagee2.jpg");
+  padding: 120px;
+}
+.forcheckke {
+  color: #ffffff;
+}
+.forcheckke {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1.16em;
+  text-decoration: none;
+  text-transform: none;
+}
